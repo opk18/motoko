@@ -1,0 +1,16 @@
+{
+  "canisters": {
+    "weight_converter_backend": {
+      "main": "src/weight_converter_backend/main.mo",
+      "type": "motoko"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
